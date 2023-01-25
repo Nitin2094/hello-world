@@ -7,3 +7,10 @@ Now that we Added and commited file, let us add one more.
 And this is Another line.
 
 and ANother line.
+
+This line was Added in the feature1 branch.
+We will be then in feature1 branch. 
+
+
+
+
